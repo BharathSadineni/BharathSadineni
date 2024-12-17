@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+Hybrid Stance Detection for Tweets
+Hello! 👋 I am Bharath Sadineni.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this day and age, misinformation is a pressing issue on social media. Platforms like Twitter often blur the lines between truth and falsehood, making it difficult to distinguish between credible information and lies.
 
-## Available Scripts
+As a first step in leveraging Artificial Intelligence to address this challenge, I’ve developed a Hybrid Stance Detection Model. This project aims to identify the stance and authenticity of tweets in real-time.
 
-In the project directory, you can run:
+👉 Check out the repository here: Hybrid Stance Detection for Tweets
 
-### `npm start`
+Stance Detection System
+Getting Started
+Follow these instructions to set up and run the project on your local machine for development and testing purposes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Prerequisites
+Ensure you have Python installed on your system. The following libraries are also required for running the project:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+emoji
+requests
+tenacity
+pandas
+numpy
+nltk
+joblib
+tqdm
+scikit-learn
+xgboost
+jmespath
+bs4
+google
+Installation
+Install all dependencies using the following command:
 
-### `npm test`
+bash
+Copy code
+pip install emoji requests tenacity pandas numpy nltk joblib tqdm scikit-learn xgboost jmespath bs4 google
+Clone the repository to your local machine:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+bash
+Copy code
+git clone https://github.com/BharathSadineni/Hybrid-Stance-Detection-for-Tweets.git
+cd Hybrid-Stance-Detection-for-Tweets
+Usage
+To start the stance detection system, execute the following command:
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+bash
+Copy code
+python coordinator.py
+What to Expect
+Initial Run
+The first execution may take up to 500 seconds as the system preprocesses data, vectorizes text, and generates features.
+After processing, the system will calculate and display the accuracy of stance predictions on test data.
+You’ll be prompted to choose between:
+Using a default URL for stance detection, or
+Entering a custom URL (type yes to input your own).
+Once analysis is complete, the detected stance and its accuracy percentage will be displayed.
+Subsequent Runs
+Subsequent runs will be faster (100-200 seconds) since only new data will be vectorized.
+The system will again prompt you to specify a URL for stance detection. Enter your desired URL when asked to analyze its stance.
