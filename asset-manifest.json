@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BharathSadineni/static/css/main.e6c13ad2.css",
+    "main.js": "/BharathSadineni/static/js/main.4ccacb4c.js",
+    "static/js/787.c922dae8.chunk.js": "/BharathSadineni/static/js/787.c922dae8.chunk.js",
+    "static/media/Project_Video.mp4": "/BharathSadineni/static/media/Project_Video.6edf30f6c89b1dbcf2cb.mp4",
+    "static/media/Student_Manager.mp4": "/BharathSadineni/static/media/Student_Manager.62520eab08d4d2360f51.mp4",
+    "static/media/Bingo Recording.mp4": "/BharathSadineni/static/media/Bingo Recording.1f6a200cf222d8754f22.mp4",
+    "static/media/stac.png": "/BharathSadineni/static/media/stac.48e4c8fc429f33f0834d.png",
+    "static/media/clientlogo.png": "/BharathSadineni/static/media/clientlogo.bfa014df501ca6dd9d99.png",
+    "static/media/maze logo.avif": "/BharathSadineni/static/media/maze logo.547e4b9685fa10aff6ce.avif",
+    "index.html": "/BharathSadineni/index.html",
+    "main.e6c13ad2.css.map": "/BharathSadineni/static/css/main.e6c13ad2.css.map",
+    "main.4ccacb4c.js.map": "/BharathSadineni/static/js/main.4ccacb4c.js.map",
+    "787.c922dae8.chunk.js.map": "/BharathSadineni/static/js/787.c922dae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4ccacb4c.js"
+  ]
+}
