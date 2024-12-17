@@ -76,4 +76,4 @@ python coordinator.py
 
 ---
 
-Feel free to explore and contribute to the project! If you have any questions or feedback, reach out or open an issue in the repository.  
+
