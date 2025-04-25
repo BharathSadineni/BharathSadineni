@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/BharathSadineni/static/css/main.943a982a.css",
-    "main.js": "/BharathSadineni/static/js/main.bf2aeeef.js",
+    "main.css": "/BharathSadineni/static/css/main.cb1b08a1.css",
+    "main.js": "/BharathSadineni/static/js/main.9f9febc5.js",
     "static/js/787.c922dae8.chunk.js": "/BharathSadineni/static/js/787.c922dae8.chunk.js",
     "static/media/Project_Video.mp4": "/BharathSadineni/static/media/Project_Video.6edf30f6c89b1dbcf2cb.mp4",
     "static/media/Student_Manager.mp4": "/BharathSadineni/static/media/Student_Manager.62520eab08d4d2360f51.mp4",
     "static/media/Bingo Recording.mp4": "/BharathSadineni/static/media/Bingo Recording.1f6a200cf222d8754f22.mp4",
+    "static/media/profile.jpg": "/BharathSadineni/static/media/profile.a5b34c10c47871a94a07.jpg",
     "static/media/stac.png": "/BharathSadineni/static/media/stac.48e4c8fc429f33f0834d.png",
-    "static/media/clientlogo.png": "/BharathSadineni/static/media/clientlogo.bfa014df501ca6dd9d99.png",
-    "static/media/maze logo.avif": "/BharathSadineni/static/media/maze logo.547e4b9685fa10aff6ce.avif",
+    "static/media/clientlogo.png": "/BharathSadineni/static/media/clientlogo.4707bccdb6284fa0e3e6.png",
+    "static/media/maze logo.avif": "/BharathSadineni/static/media/maze logo.ed5d5795948ba6122356.avif",
     "index.html": "/BharathSadineni/index.html",
-    "main.943a982a.css.map": "/BharathSadineni/static/css/main.943a982a.css.map",
-    "main.bf2aeeef.js.map": "/BharathSadineni/static/js/main.bf2aeeef.js.map",
+    "main.cb1b08a1.css.map": "/BharathSadineni/static/css/main.cb1b08a1.css.map",
+    "main.9f9febc5.js.map": "/BharathSadineni/static/js/main.9f9febc5.js.map",
     "787.c922dae8.chunk.js.map": "/BharathSadineni/static/js/787.c922dae8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.943a982a.css",
-    "static/js/main.bf2aeeef.js"
+    "static/css/main.cb1b08a1.css",
+    "static/js/main.9f9febc5.js"
   ]
 }
