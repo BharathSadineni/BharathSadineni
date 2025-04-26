@@ -1,6 +1,6 @@
-# Hybrid Stance Detection for Tweets  
+# Hello! 👋 I am **Bharath Sadineni**
 
-Hello! 👋 I am **Bharath Sadineni**.  
+This is my most recent project.
 
 In this day and age, misinformation is a pressing issue on social media. Platforms like Twitter often blur the lines between truth and falsehood, making it difficult to distinguish between credible information and lies.  
 
