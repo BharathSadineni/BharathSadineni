@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BharathSadineni/static/css/main.cb1b08a1.css",
-    "main.js": "/BharathSadineni/static/js/main.9f9febc5.js",
+    "main.css": "/BharathSadineni/static/css/main.411a028e.css",
+    "main.js": "/BharathSadineni/static/js/main.26bd2289.js",
     "static/js/787.c922dae8.chunk.js": "/BharathSadineni/static/js/787.c922dae8.chunk.js",
     "static/media/Project_Video.mp4": "/BharathSadineni/static/media/Project_Video.6edf30f6c89b1dbcf2cb.mp4",
     "static/media/Student_Manager.mp4": "/BharathSadineni/static/media/Student_Manager.62520eab08d4d2360f51.mp4",
@@ -11,12 +11,12 @@
     "static/media/clientlogo.png": "/BharathSadineni/static/media/clientlogo.4707bccdb6284fa0e3e6.png",
     "static/media/maze logo.avif": "/BharathSadineni/static/media/maze logo.ed5d5795948ba6122356.avif",
     "index.html": "/BharathSadineni/index.html",
-    "main.cb1b08a1.css.map": "/BharathSadineni/static/css/main.cb1b08a1.css.map",
-    "main.9f9febc5.js.map": "/BharathSadineni/static/js/main.9f9febc5.js.map",
+    "main.411a028e.css.map": "/BharathSadineni/static/css/main.411a028e.css.map",
+    "main.26bd2289.js.map": "/BharathSadineni/static/js/main.26bd2289.js.map",
     "787.c922dae8.chunk.js.map": "/BharathSadineni/static/js/787.c922dae8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb1b08a1.css",
-    "static/js/main.9f9febc5.js"
+    "static/css/main.411a028e.css",
+    "static/js/main.26bd2289.js"
   ]
 }
