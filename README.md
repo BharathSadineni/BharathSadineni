@@ -174,7 +174,7 @@ I'm a **BSc AI & Computer Science graduate** from the **University of Birmingham
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BharathSadineni&label=Profile%20Views&color=0e75b6&style=flat&base=58" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BharathSadineni&label=Profile%20Views&color=0e75b6&style=flat&base=68" alt="Profile Views" />
 </div>
 
 <br>
@@ -183,5 +183,5 @@ I'm a **BSc AI & Computer Science graduate** from the **University of Birmingham
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100%" height="2" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="100%" />
 </div>
